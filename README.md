@@ -1,1 +1,1 @@
-# While-Funksiya
+# While-Sikl
